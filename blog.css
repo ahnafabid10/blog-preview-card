@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+.figtree{
+  font-family: "Figtree", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+body{
+    background-color: hsl(47, 88%, 63%);
+    margin: auto 0;
+}
+
+.blog{
+    width: 336px;
+    border: 1px solid black;
+    margin: 220px auto;
+    padding: 15px;
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 10px 10px;
+}
+.banner-image img{
+    border-radius: 15px;
+    margin-bottom: 10px;
+}
+h3{
+    color: hsl(0, 0%, 7%);
+    font-weight: bold;
+}
+.learning{
+    border: none;
+    padding: 5px;
+    width: 85px;
+    text-align: center;
+    font-weight: bold;
+    background-color: hsl(47, 88%, 63%) ;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+h4{
+    font-weight: 400;
+    margin-bottom: 10px;
+}
+
+h2{
+    margin-bottom: 10px;
+}
+h2:hover{
+    color: hsl(47, 88%, 63%) ;
+}
+
+p{
+    color: hsl(0, 0%, 42%);
+    margin-bottom: 15px;
+    font-weight: 500;
+    font-size: 1rem;
+}
+.avator{
+    display: flex;
+    align-items: center;
+}
+.avator img{
+    width: 35px;
+    margin-right: 15px;
+}
